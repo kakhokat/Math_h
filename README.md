@@ -17,11 +17,10 @@ Implementation of our own version of the math.h library.
 | 10 | `long double s21_fmod(double x, double y)` | Remainder of the floating-point division operation |
 | 11 | `long double s21_fuctorial(long long int x)` | Computes factorial of x. |
 | 12 | `long double s21_log(double x)` | Computes natural logarithm |
-| 13 | `long double s21_pow_int(double base, long long int exp)` | Raises a number to the given power. |
-| 14 | `long double s21_pow(double base, double exp)` | Raises a number to the given power |
-| 15 | `long double s21_sin(double x)` | Computes sine |
-| 16 | `long double s21_sqrt(double x)` | Computes square root |
-| 17 | `long double s21_tan(double x)` | Computes tangent |
+| 13 | `long double s21_pow(double base, double exp)` | Raises a number to the given power |
+| 14 | `long double s21_sin(double x)` | Computes sine |
+| 15 | `long double s21_sqrt(double x)` | Computes square root |
+| 16 | `long double s21_tan(double x)` | Computes tangent |
 
 ## Overview of "s21_math.h" defines
 
