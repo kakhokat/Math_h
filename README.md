@@ -15,11 +15,11 @@ Implementation of our own version of the math.h library.
 | 8 | `long double s21_fabs(double x)` | Computes absolute value of a floating-point value |
 | 9 | `long double s21_floor(double x)` | Returns the nearest integer not greater than the given value |
 | 10 | `long double s21_fmod(double x, double y)` | Remainder of the floating-point division operation |
-| 12 | `long double s21_log(double x)` | Computes natural logarithm |
-| 13 | `long double s21_pow(double base, double exp)` | Raises a number to the given power |
-| 14 | `long double s21_sin(double x)` | Computes sine |
-| 15 | `long double s21_sqrt(double x)` | Computes square root |
-| 16 | `long double s21_tan(double x)` | Computes tangent |
+| 11 | `long double s21_log(double x)` | Computes natural logarithm |
+| 12 | `long double s21_pow(double base, double exp)` | Raises a number to the given power |
+| 13 | `long double s21_sin(double x)` | Computes sine |
+| 14 | `long double s21_sqrt(double x)` | Computes square root |
+| 15 | `long double s21_tan(double x)` | Computes tangent |
 
 ## Overview of "s21_math.h" defines
 
